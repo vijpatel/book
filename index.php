@@ -15,7 +15,7 @@
 <body style = "background-image:url('img/book.jpg')">
 
 	<div id= "title">
-		<h1>Online Bookstore</h1>
+		<h1>Online Book store</h1>
 	</div>
 
 	<div id= "main-wrapper">
